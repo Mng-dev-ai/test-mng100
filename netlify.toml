@@ -1,0 +1,4 @@
+[build]
+  base = "app"
+  publish = "dist"
+  command = "bun i && bun run build"
